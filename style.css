@@ -1,0 +1,29 @@
+body{background-color: cyan;
+    }
+
+
+
+.para1{
+    color: cadetblue;
+    text-decoration: underline;
+    text-transform: capitalize;
+
+}
+
+.para2{
+    color: blueviolet;
+    text-decoration: line-through;
+    text-transform: uppercase;
+}
+
+.css-styling{
+    color:chartreuse;
+    text-decoration: line-through;
+    text-transform: lowercase;
+}
+
+
+
+
+
+
